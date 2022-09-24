@@ -1,0 +1,8 @@
+Details of Clients:
+Name:DIVYANSHU RANA,Age:18,Gender:Male,Address:Shashtrinagar
+SE-462,More about client:I am Good.
+Name:Deepanshu Rana,Age:19,Gender:Male,Address:Shashtrinagar
+SE-462,More about client:Sab badhiya.
+Name:Nishant Rana,Age:17,Gender:Male,Address:Shashtrinagar
+SE-519,More about client:Okay pr baad mai.                               
+                               
